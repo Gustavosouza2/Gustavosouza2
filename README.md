@@ -1,7 +1,6 @@
 - 👋 Olá! Eu sou Gustavosouza2
 - 👀 Estou interessado em trabalhar com Desenvolvimento-Web
-- 🌱 Conhecimentos: JavaScript, HTML5, CSS3
-- 📚 Estou estudando: ReactJS
+- 🌱 Conhecimentos: JavaScript, HTML5, CSS3, Reactjs, SASS.
 - 📫 Contate-me no email: gustavoleonsouza@gmail.com
 
 <div align="center">
