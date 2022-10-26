@@ -1,6 +1,6 @@
 - 👋 Olá! Eu sou Gustavosouza2
 - 👀 Estou interessado em trabalhar com Desenvolvimento-Web
-- 🌱 Conhecimentos: JavaScript, HTML, CSS, React, SASS, SCSS, Redux, Material UI, Figma.
+- 🌱 Conhecimentos: JavaScript, HTML, CSS, React, SASS, SCSS, Redux, Tailwind.
 - 📫 Contate-me no email: gustavoleonsouza@gmail.com
 
 <div align="center">
@@ -17,7 +17,7 @@
   <img align="center" alt="Gu-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gu-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Gu-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind-css/tailwind-css-original.svg" /> 
+  <img align="center" alt="Gu-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-original.svg">
   
 </div>
 
