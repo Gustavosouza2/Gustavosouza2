@@ -1,6 +1,5 @@
 - 👋 Olá! Eu sou Gustavosouza2
 - 👀 Estou interessado em trabalhar com Desenvolvimento-Web
-- 🌱 Conhecimentos: JavaScript, HTML, CSS, React, SASS, SCSS, Redux, Tailwind.
 - 📫 Contate-me no email: gustavoleonsouza@gmail.com
 
 <div align="center">
