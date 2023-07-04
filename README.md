@@ -1,5 +1,4 @@
 - 👋 Olá! Eu sou Gustavosouza2
-- 👀 Estou interessado em trabalhar com Desenvolvimento-Web
 - 📫 Contate-me no email: gustavoleonsouza@gmail.com
 
 <div align="center">
