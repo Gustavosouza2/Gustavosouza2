@@ -1,4 +1,4 @@
-- 👋 Olá! Eu sou Gustavosouza2
+- 👋 Olá! Eu sou Gustavo Souza
 - 📫 Contate-me no email: gustavoleonsouza@gmail.com
 
 <div align="center">
@@ -15,6 +15,7 @@
   <img align="center" alt="Gu-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />      
   <img align="center" alt="Gu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gu-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+    <img align="center" alt="Gu-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" />
   
 </div>
 
