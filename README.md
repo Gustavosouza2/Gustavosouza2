@@ -1,5 +1,7 @@
-- 👋 Olá! Eu sou Gustavo Souza
-- 📫 Contate-me no email: gustavoleonsouza@gmail.com
+- 👋 hello everyone, my name is Gustavo Souza!
+- 💻 I'm a Front-End Developer
+- ![image](https://github.com/Gustavosouza2/Gustavosouza2/assets/92954102/c5616576-1120-46e4-b7b6-9bf418207c21)
+ Contact me on my linkedin
 
 <div align="center">
   <a href="https://github.com/Gustavosouza2">
@@ -13,8 +15,13 @@
   <img  align="center" alt="Next" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img lign="center" alt="Type" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+   <img align="center" alt="React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+        
+  <img align="center" alt="Type" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+
+  <img  align="center" alt="Js" height="30" width="40"  
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 </div>
 
