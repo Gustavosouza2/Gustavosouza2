@@ -11,15 +11,14 @@
 
 <div style="display:inline_block"><br>
  
-  <img  alt="Next"  height="30" width="40"
+  <img align="center" alt="Next"  height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
           
 
-   <img  alt="React"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+   <img  alt="React" align="center"   height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
         
-  <img  alt="Type" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
-
-  <img  alt="Js" height="30" width="40"  
+ <img  alt="Type" align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+ <img  alt="Js "align="center" height="30" width="40"  
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           
 </div>
