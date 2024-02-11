@@ -9,7 +9,7 @@
 </div>
 
 
-<div style="display:inline_block"><br>
+<div style="display:inline_block">
   <img alt="Next" align="center" height="30" width="40"
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
  
