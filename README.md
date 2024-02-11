@@ -2,11 +2,19 @@
 - 💻 I'm a Front-End Developer
 - Contact me on my linkedin
 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
 <div align="center">
   <a href="https://github.com/Gustavosouza2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavosouza2&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavosouza2&layout=compact&langs_count=7&theme=dark"/>
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GustavoSouza2&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Souza github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSouza&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GustavoSouza2&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
 
 
 <div style="display:inline_block">
