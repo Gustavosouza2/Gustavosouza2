@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=43454B&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E3E3E3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gustavo+Souza;I'm+21+years+old;I+am+from+São+Paulo,+SP;Im+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Hi, I'm Gustavo 👋🏽 💻
 
 
 ### Skills:
