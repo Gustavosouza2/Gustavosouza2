@@ -4,26 +4,26 @@
 
 ---
 
-### **GUSTAVO LEONILDO**
-**software developer • backend & frontend • tech enthusiast**
+### **GUSTAVO LEONILDO**  
+**software developer • frontend & backend • tech enthusiast**
 
-Sou um desenvolvedor apaixonado por tecnologia, criação de soluções eficientes e aprendizado contínuo.  
-Gosto de trabalhar com **Next.js, React, TypeScript, Node.js** e ferramentas que permitem construir aplicações modernas, escaláveis e bem estruturadas.
+I'm a software developer passionate about building modern, scalable applications and constantly improving my technical skills.  
+I enjoy working with **Next.js, React, TypeScript, Node.js**, and technologies that allow me to create high-quality and well-structured solutions.
 
-> *Aqui você poderá escrever algo curto sobre sua experiência, objetivos ou estilo de trabalho.*
+> *You can replace this paragraph with a short summary about your experience, what you are studying, or your goals as a developer.*
 
 ---
 
 ## **Find me around the web 🌎**
 
-- Compartilhando conhecimento no **LinkedIn**  
-- Criando projetos e soluções no **GitHub**  
-- Respondendo mensagens por **email**
+- Sharing thoughts and updates on **LinkedIn**  
+- Building projects and experimenting on **GitHub**  
+- Available for contact through **email**
 
 ### Social:
-<a href="https://www.linkedin.com/in/gustavo-leonildo-de-souza-435025223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:gustavoleonsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/gustavoleonsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gustavo-leonildo-de-souza-435025223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:gustavoleonsouza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/gustavoleonsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
 ---
 
