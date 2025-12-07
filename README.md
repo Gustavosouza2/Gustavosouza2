@@ -12,6 +12,6 @@ I enjoy working with **Next.js, React, TypeScript, Node.js**, and technologies t
 
 - Sharing thoughts and updates on **[LinkedIn](https://www.linkedin.com/in/gustavo-leonildo-de-souza-435025223/)**  
 - Building projects and experimenting on **GitHub**  
-- Available for contact through **[email](https://mail.google.com/mail/u/0/#inbox)**
+- Available for contact through **[Email](https://mail.google.com/mail/u/0/#inbox)**
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=43454B&height=120&section=footer"/>
